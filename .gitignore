@@ -1,0 +1,8 @@
+*.DS_Store
+*.o
+*.d
+.vscode
+miniRT
+libmlx.a
+libft.a
+
