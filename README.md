@@ -15,6 +15,13 @@ cd miniRT-release && make
 ./miniRT scenes/sphere.rt
 ```
 
+
+## Features :
+* Objects : ``sphere`` ``plane`` ``cylinder`` ``cone``
+* General : ``camera`` ``scene file`` ``Phong reflection`` ``checkerboard`` 
+* Extra : ``multiple lights`` ``colored lights`` ``materials`` ``transparency``
+
+
 ## Information
 Some scene files provided for reference in scenes/ directory  
 
