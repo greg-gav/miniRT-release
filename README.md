@@ -32,11 +32,11 @@ Some scene files provided for reference in scenes/ directory
 ### Basic shapes 
 ![simple rt mix](samples/simple_mix.png)
 
+### Columns scene 
+![columns rt mix](samples/columns.png)
+
 ### Some reflections 
 ![reflections rt mix](samples/some_reflections.png)
 
 ### Some transparency 
 ![transparent rt mix](samples/transparent_sphere.png)
-
-### Columns scene 
-![columns rt mix](samples/columns.png)
