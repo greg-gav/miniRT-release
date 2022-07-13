@@ -20,7 +20,7 @@ OBJS = ${addprefix ${OBJ_PATH}/,${SRC_FILES:.c=.o}}
 
 INCLUDES = -I${INC_PATH} -I${MLIBX_PATH}
 
-CFLAGS = -Wall -Werror -Wextra -MMD -g -O2
+CFLAGS = -Wall -Werror -Wextra -MMD -O2
 LFLAGS = -Lmlx -lmlx -framework OpenGL -framework AppKit
 
 all : libmake $(NAME)
